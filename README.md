@@ -55,3 +55,4 @@ El objetivo de este taller es hacer que el carrusel que desarrolles se vea corre
 - [Guía de diseño web responsive](https://www.w3schools.com/html/html_responsive.asp)
 
 CARRUSEL:https://danielguve.github.io/carrusel/
+Daniel David Gutierrez Velasco
